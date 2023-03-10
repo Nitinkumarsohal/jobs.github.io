@@ -355,7 +355,7 @@ header{
 /* section2 close  */
 
 .section3{
-    height: 490px;
+    min-height: 490px;
     background-position: center;
     background-image: url("images/bg1.jpg");
     position: relative;
