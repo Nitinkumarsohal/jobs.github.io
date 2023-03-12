@@ -1,0 +1,244 @@
+@media (max-width: 1399.98px) { 
+    .section1 p span.typed-text {
+        font-size: 30PX;
+      }
+      .section1 p span.cursor {
+        top:2%;
+      }
+}
+/* close the 1399 media  */
+@media (max-width: 1199.98px) {
+    .edit {
+        font-size: 14px;
+        padding: 4px;
+        margin: 5px;
+    }
+    .section1 .style h3 {
+        font-size: 25px;
+    }
+    .section1 p span.typed-text {
+        font-size: 20PX;
+      }
+      .section1 p span.cursor {
+        top:1%;
+      }
+      .section1 .all {
+        font-size: 22px;
+    }
+    .section1 .We {
+        font-size: 16px;
+    }
+    footer .style li {
+        padding: 7px;
+        font-size: 13px;
+    }.section3 .design {
+        width: 100%;
+        max-width: 55%;
+    }
+    .section5 .card-style p {
+        font-size: 14px;
+    }
+    .section9 .edit-box .img img {
+        height: 146px;
+    }
+    .section9 .edit-box .text {
+        font-size: 13px;
+    }
+}
+/* close the 1199 media  */
+
+@media (max-width: 991.98px) { 
+    .navbar-toggler {
+        background-color:  #005cff;
+        z-index: 7;
+        color: white;
+        padding: 10px 13px 10px 13px;
+    }
+    .navbar-collapse {
+        padding: 20px 0px !important;
+        padding: 24px 0px !important;
+        text-align: center;
+    }
+    .edit{
+        font-size: 15px;
+        padding: 6px;
+        margin: 5px;
+    }    
+    .login {
+        margin-left: 0px;
+        max-width: 22%;
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .section2 .style-1 {
+        margin: 12px 0px;
+    }
+    .section2 .style-1 .text p {
+        font-size: 13px;
+    }
+    .section3::before {
+        min-height: 750px;
+        left: 0%;
+    }
+    .section3 {
+        padding: 13px;
+    }
+    .section3 .website {
+        font-size: 14px;
+    }
+    .section3 .Build {
+        color: white;
+        font-size: 13px;
+        width: 100%;
+        max-width: 100%;
+        padding-top: 15px;
+        line-height: 23px;
+    }
+    .section3 .design {
+        width: 100%;
+        max-width: 100%;
+    }
+    .section3 .design {
+        
+        font-size: 13px;
+    }
+    .section3 .development {
+        color: white;
+        font-size: 13px;
+        width: 100%;
+        line-height: 23px;
+        padding-top: 0px;
+    }
+    .section3 .Get {
+        margin-left: 0px;
+    }
+    .tel {
+        margin-left: 0px !important; 
+    }
+    .section6::before {
+        min-height: 770px;
+    }
+    .section6 .box-edit {
+        padding: 20px;
+    }
+    .section6 .box-edit .DIGITAL {
+        font-size: 15px;
+        line-height: 149%;
+    }
+    .section6 .box-edit h3 {
+        font-size: 28px;
+    }
+    .section6 .box-edit .Scale {
+        width: 100%;
+    }
+    .section6 .box-edit .Learn {
+        margin-left: 0px;
+    }
+    .section6 .box-edit .Now {
+        margin-left: 0px;
+    }
+    .section7 .style .WEB {
+        line-height: 23px;
+    }
+    .section7 .style H3 {
+        font-size: 25px;
+    }
+    .section7 .style .Schedule {
+        font-size: 15px;
+    }
+    .section7 .style .Start-Now {
+        margin-left: 0px;
+    }
+    .section3 h3 {
+        font-size: 29px;
+    }
+    .section9 .edit-box .img img {
+        height: 171px;
+    }
+    .section10 .style h4 {
+        font-size: 20px;
+    }
+    .section10 .style p {
+        font-size: 13px;
+        width: 100%;
+        line-height: 23px;
+    }
+ }
+/* close the 991 media  */
+
+
+@media (max-width: 767.98px) { 
+    .section2 .style-1 .text p {
+        font-size: 14px;
+    }   
+    .section4 section .text h4 {
+        font-size: 22px;
+    } 
+    .section4 section .text p {
+        padding-top: 5px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .section5 .card-style {
+        margin: 10px 0px;
+    }
+    .section6::before {
+        min-height: 796px;
+    }
+    .style-g{
+        margin: 17px 0px;
+    }
+    .section8::before {
+        min-height: 494px;
+    }
+    .section9 .edit-box .img img {
+        height:auto;
+        width: 100%;
+    }
+    .section9 .edit-box .text {
+        font-size: 15px;
+    }
+    .section10 .style p {
+        font-size: 14px;
+    }
+ }
+/* close the 767 media  */
+
+@media (max-width: 575.98px) { 
+    .login {
+        font-size: 12px;
+    }
+    .section4 section .text h4 {
+        font-size: 17px;
+    }
+    .section4 section .text p {
+        color: white;
+        font-size: 15px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .section5 .card-style p {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .section6 .box-edit .Now {
+        margin-left: 10px;
+    }
+    .section9 {
+        padding: 13px;
+    }
+}
+/* close the 575 media  */
+
+
+@media (max-width: 575.98px) { 
+}
+
+
+
+
+
+
+
+
