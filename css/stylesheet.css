@@ -52,7 +52,7 @@ header{
 .section1{
     min-height: 800px;
     background-color: gray;
-    background-image: url("/images/banner.avif");
+    background-image: url("images/banner.avif");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -340,7 +340,7 @@ header{
 .section3{
     min-height: 490px;
     background-position: center;
-    background-image: url("/images/bg1.jpg");
+    background-image: url("images/bg1.jpg");
     position: relative;
     background-attachment: fixed;
 }
@@ -659,7 +659,7 @@ header{
 
 .section6{
     /* background-color: #F3F6FB; */
-    background-image: url("/images/bg1.jpg");
+    background-image: url("images/bg1.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -899,7 +899,7 @@ header{
 .section8{
     min-height: 490px;
     background-position: center;
-    background-image: url("/images/bg1.jpg");
+    background-image: url("images/bg1.jpg");
     position: relative;
     background-attachment: fixed;
 }
