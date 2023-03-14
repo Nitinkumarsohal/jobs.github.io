@@ -228,6 +228,9 @@
     .section9 {
         padding: 13px;
     }
+     .section1 .Get {
+        margin-left: 0px;
+    }
 }
 /* close the 575 media  */
 
