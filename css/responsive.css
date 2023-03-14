@@ -66,7 +66,7 @@
     }    
     .login {
         margin-left: 0px;
-        max-width: 22%;
+        max-width: 120px;
         width: 100%;
         margin: auto;
         display: block;
@@ -208,8 +208,8 @@
 @media (max-width: 575px) { 
     .login {
         font-size: 12px;
+        max-width: 120px;
         width: 100%;
-        max-width: 100%;
     }
     .section4 section .text h4 {
         font-size: 17px;
