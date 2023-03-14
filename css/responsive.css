@@ -205,9 +205,11 @@
  }
 /* close the 767 media  */
 
-@media (max-width: 575.98px) { 
+@media (max-width: 575px) { 
     .login {
         font-size: 12px;
+        width: 100%;
+        max-width: 100%;
     }
     .section4 section .text h4 {
         font-size: 17px;
@@ -228,18 +230,18 @@
     .section9 {
         padding: 13px;
     }
-     .section1 .Get {
+    .section1 .Get {
         margin-left: 0px;
     }
+    footer .li {
+        font-size: 15px;
+    }
+    footer .icon i {
+        padding: 12px;
+    }
+        
 }
 /* close the 575 media  */
-
-
-@media (max-width: 575.98px) { 
-}
-
-
-
 
 
 
